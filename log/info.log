@@ -1,0 +1,180 @@
+2021/07/03 20:44:46 SendMessage success, message is [gwrehg]
+2021/07/03 20:46:51 ReadMessage error: read tcp [::1]:58802->[::1]:8080: read: connection reset by peer
+2021/07/03 20:47:08 SendMessage success, message is [sds]
+2021/07/03 20:48:36 SendMessage success, message is [ddd]
+2021/07/03 20:52:11 SendMessage success, message is [dd]
+2021/07/03 20:54:28 ReadMessage error: read tcp [::1]:60636->[::1]:8080: read: connection reset by peer
+2021/07/03 20:55:13 SendMessage success, message is [ddd]
+2021/07/03 20:55:13 message:### &{ sss 说： ddd }
+2021/07/03 21:02:50 ReadMessage error: websocket: close 1006 (abnormal closure): unexpected EOF
+2021/07/03 21:03:25 SendMessage success, message is [abdiadi]
+2021/07/03 21:03:25 message:### &{ asbfiaf ： abdiadi }
+2021/07/03 21:03:34 ReadMessage error: read tcp [::1]:63366->[::1]:8080: use of closed network connection
+2021/07/03 21:07:18 SendMessage success, message is [absdbawdbnabod]
+2021/07/03 21:07:18 message:### &{ daodinwani ： absdbawdbnabod }
+2021/07/03 21:08:10 SendMessage success, message is [zscsadffafc]
+2021/07/03 21:08:10 message:### &{ fasfafaf ： zscsadffafc }
+2021/07/03 21:08:54 Fyne error:  GLFW poll event error: InvalidValue: Invalid scancode
+2021/07/03 21:08:54   At: /Users/alimasi/go/pkg/mod/fyne.io/fyne@v1.4.3/internal/driver/glfw/loop.go:218
+2021/07/03 21:08:55 Fyne error:  GLFW poll event error: InvalidValue: Invalid scancode
+2021/07/03 21:08:55   At: /Users/alimasi/go/pkg/mod/fyne.io/fyne@v1.4.3/internal/driver/glfw/loop.go:218
+2021/07/03 21:09:10 Fyne error:  GLFW poll event error: InvalidValue: Invalid scancode
+2021/07/03 21:09:10   At: /Users/alimasi/go/pkg/mod/fyne.io/fyne@v1.4.3/internal/driver/glfw/loop.go:218
+2021/07/03 21:09:13 SendMessage success, message is [hoawsndiaodasdasdadwadwdafsdfss]
+2021/07/03 21:09:13 message:### &{ dbnaidak ： hoawsndiaodasdasdadwadwdafsdfss }
+2021/07/03 21:12:58 SendMessage success, message is [fsafafa]
+2021/07/03 21:13:31 SendMessage success, message is [fasfasfa]
+2021/07/03 21:14:02 SendMessage success, message is [svasfadfag]
+2021/07/03 21:14:02 message:### &{ basiubdiau ： svasfadfag }
+2021/07/03 21:14:46 SendMessage success, message is [qrqrqrr]
+2021/07/03 21:14:46 message:### &{ rw3rqr3 ： qrqrqrr }
+2021/07/03 21:15:38 SendMessage success, message is [dawddaw]
+2021/07/03 21:15:38 message:### &{ dawdad ： dawddaw }
+2021/07/03 21:17:32 SendMessage success, message is [daudigiwa]
+2021/07/03 21:17:32 message:### &{ dhaiwhdiua:daudigiwa }
+2021/07/03 21:18:16 SendMessage success, message is [wdgaiubdda]
+2021/07/03 21:18:16 message:### &{ dadwad:wdgaiubdda }
+2021/07/03 21:19:55 SendMessage success, message is [dabwuda]
+2021/07/03 21:19:55 message:### &{ wdadh89ah:dabwuda }
+2021/07/03 21:19:55 message:### &{ wdadh89ah:dabwuda }
+2021/07/03 21:20:00 SendMessage success, message is [daiubuwdi]
+2021/07/03 21:20:00 message:### &{ dawda:daiubuwdi }
+2021/07/03 21:20:00 message:### &{ dawda:daiubuwdi }
+2021/07/05 07:33:25 SendMessage success, message is [dawdwaa]
+2021/07/05 07:33:25 message:### &{ faifbaisf:dawdwaa }
+2021/07/05 07:33:49 SendMessage success, message is [dwadadadadwa]
+2021/07/05 07:33:49 message:### &{ awdadd:dwadadadadwa }
+2021/07/05 07:33:49 message:### &{ awdadd:dwadadadadwa }
+2021/07/05 07:34:02 SendMessage success, message is [adwadndfgnd]
+2021/07/05 07:34:02 message:### &{ awdadd:adwadndfgnd }
+2021/07/05 07:34:02 message:### &{ awdadd:adwadndfgnd }
+2021/07/05 07:34:09 SendMessage success, message is [aaaaaaaaaaaafsdf]
+2021/07/05 07:34:09 message:### &{ faifbaisf:aaaaaaaaaaaafsdf }
+2021/07/05 07:34:09 message:### &{ faifbaisf:aaaaaaaaaaaafsdf }
+2021/07/05 07:34:14 ReadMessage error: read tcp [::1]:51742->[::1]:8080: use of closed network connection
+2021/07/05 07:50:24 SendMessage success, message is [sawaafsefsad]
+2021/07/05 07:50:24 message:### &{ sdbauba:sawaafsefsad }
+2021/07/05 07:51:01 SendMessage success, message is [asndauibdua]
+2021/07/05 07:51:01 message:### &{ adnains:asndauibdua }
+2021/07/05 07:51:01 message:### &{ adnains:asndauibdua }
+2021/07/05 07:51:34 SendMessage success, message is [dwaa]
+2021/07/05 07:51:34 message:### &{ andiauw:dwaa }
+2021/07/05 07:51:34 message:### &{ andiauw:dwaa }
+2021/07/05 07:51:37 ReadMessage error: read tcp [::1]:51947->[::1]:8080: use of closed network connection
+2021/07/05 07:51:49 ReadMessage error: read tcp [::1]:51940->[::1]:8080: use of closed network connection
+2021/07/05 07:56:28 SendMessage success, message is [bfbfbfbf]
+2021/07/05 07:56:28 message:### &{ sbfbes:bfbfbfbf }
+2021/07/05 07:56:31 ReadMessage error: read tcp [::1]:51957->[::1]:8080: use of closed network connection
+2021/07/05 07:56:31 WriteMessage error: write tcp [::1]:51957->[::1]:8080: use of closed network connection
+2021/07/05 08:00:15 Fyne error:  GLFW poll event error: InvalidValue: Invalid scancode
+2021/07/05 08:00:15   At: /Users/alimasi/go/pkg/mod/fyne.io/fyne@v1.4.3/internal/driver/glfw/loop.go:218
+2021/07/05 08:00:23 SendMessage success, message is [hthehehe]
+2021/07/05 08:00:23 message:### &{ asd aksd:hthehehe }
+2021/07/05 08:00:52 ReadMessage error: read tcp [::1]:51970->[::1]:8080: use of closed network connection
+2021/07/05 08:10:56 SendMessage success, message is [daniwda]
+2021/07/05 08:10:56 message:### &{ dawidina:daniwda }
+2021/07/05 08:11:44 ReadMessage error: read tcp [::1]:52032->[::1]:8080: use of closed network connection
+2021/07/05 08:11:44 WriteMessage error: write tcp [::1]:52032->[::1]:8080: use of closed network connection
+2021/07/05 08:21:58 SendMessage success, message is [ndwnadwaa]
+2021/07/05 08:21:58 message:### &{ alms:ndwnadwaa }
+2021/07/05 08:23:25 message:### &{ 2a132f8f-722d-476e-9fb0-9cec1fb1ad99:safafas }
+2021/07/05 08:25:14 message:### &{ 2a132f8f-722d-476e-9fb0-9cec1fb1ad99out }
+2021/07/05 08:25:38 message:### &{ e49687c6-80bc-468b-acbc-21920381acff:iuygguyg }
+2021/07/05 08:25:47 ReadMessage error: read tcp [::1]:52057->[::1]:8080: use of closed network connection
+2021/07/05 08:25:47 WriteMessage error: write tcp [::1]:52057->[::1]:8080: use of closed network connection
+2021/07/05 08:32:21 SendMessage success, message is [dawdada]
+2021/07/05 08:32:21 message:### &{ mfonfioqwnfa:dawdada }
+2021/07/05 08:33:06 ReadMessage error: read tcp [::1]:52098->[::1]:8080: use of closed network connection
+2021/07/05 08:33:06 WriteMessage error: write tcp [::1]:52098->[::1]:8080: use of closed network connection
+2021/07/05 08:36:55 ReadMessage error: read tcp [::1]:52115->[::1]:8080: use of closed network connection
+2021/07/05 10:43:40 SendMessage success, message is [dadiad
+dadwadw]
+2021/07/05 10:43:45 SendMessage success, message is [dawdad]
+2021/07/05 11:25:36 SendMessage success, message is [adwdadw
+]
+2021/07/05 13:21:49 SendMessage success, message is [dawkd adw]
+2021/07/05 13:21:49 message:### &{ awdnand:dawkd adw }
+2021/07/05 13:22:58 SendMessage success, message is [aawdba
+]
+2021/07/05 13:22:58 message:### &{ wadaad:aawdba
+ }
+2021/07/05 13:23:06 SendMessage success, message is [awdadwd]
+2021/07/05 13:23:06 message:### &{ wadaad:awdadwd }
+2021/07/05 13:23:33 SendMessage success, message is [daddaw]
+2021/07/05 13:23:33 message:### &{ wadaad:daddaw }
+2021/07/05 13:36:15 SendMessage success, message is [wdadadwda]
+2021/07/05 13:36:15 message:### &{ wdawda:wdadadwda }
+2021/07/05 13:40:37 SendMessage success, message is [dwaddwa]
+2021/07/05 13:40:37 message:### &{ dawda:dwaddwa }
+2021/07/05 13:40:40 SendMessage success, message is [dadwadwa]
+2021/07/05 13:40:40 message:### &{ dawda:dadwadwa }
+2021/07/05 13:40:44 SendMessage success, message is [dwadwawda]
+2021/07/05 13:40:44 message:### &{ dawda:dwadwawda }
+2021/07/05 13:40:46 SendMessage success, message is [dadwad]
+2021/07/05 13:40:46 message:### &{ dawda:dadwad }
+2021/07/05 13:43:18 SendMessage success, message is [wdawdada]
+2021/07/05 13:43:18 message:### &{ dwadadw:wdawdada }
+2021/07/05 13:43:23 SendMessage success, message is [wadawdawd]
+2021/07/05 13:43:23 message:### &{ dwadadw:wadawdawd }
+2021/07/05 13:43:29 SendMessage success, message is [wdawdd]
+2021/07/05 13:43:29 message:### &{ dwadadw:wdawdd }
+2021/07/05 13:45:18 SendMessage success, message is [aifdiabdw]
+2021/07/05 13:45:18 message:### &{ awda:aifdiabdw }
+2021/07/05 13:45:23 SendMessage success, message is [dqwddqw]
+2021/07/05 13:45:23 message:### &{ awda:dqwddqw }
+2021/07/05 13:45:28 SendMessage success, message is [dawda]
+2021/07/05 13:45:28 message:### &{ awda:dawda }
+2021/07/05 13:45:32 SendMessage success, message is [wdadda]
+2021/07/05 13:45:32 message:### &{ awda:wdadda }
+2021/07/05 14:38:09 SendMessage success, message is [wdadda]
+2021/07/05 14:38:09 ReadMessage error: websocket: close 1006 (abnormal closure): unexpected EOF
+2021/07/05 14:38:18 SendMessage success, message is [dwadada]
+2021/07/05 14:38:18 WriteMessage error: write tcp [::1]:55161->[::1]:8080: write: broken pipe
+2021/07/05 14:40:18 SendMessage success, message is [dadwa]
+2021/07/05 14:40:18 message:### &{ dawda:dadwa }
+2021/07/05 14:40:24 SendMessage success, message is [dawdadadw]
+2021/07/05 14:40:24 message:### &{ dawda:dawdadadw }
+2021/07/05 14:40:35 SendMessage success, message is [dawdawda]
+2021/07/05 14:40:35 message:### &{ dawda:dawdawda }
+2021/07/05 14:40:37 SendMessage success, message is [awdawdd]
+2021/07/05 14:40:37 message:### &{ dawda:awdawdd }
+2021/07/05 14:40:53 SendMessage success, message is [awdad]
+2021/07/05 14:40:53 message:### &{ ffdaw:awdad }
+2021/07/05 14:40:53 message:### &{ ffdaw:awdad }
+2021/07/05 14:41:19 SendMessage success, message is [adwadawd]
+2021/07/05 14:41:19 message:### &{ ffdaw:adwadawd }
+2021/07/05 14:41:19 message:### &{ ffdaw:adwadawd }
+2021/07/05 14:41:34 SendMessage success, message is [dawdadwa]
+2021/07/05 14:41:34 message:### &{ dawda:dawdadwa }
+2021/07/05 14:41:34 message:### &{ dawda:dawdadwa }
+2021/07/05 14:41:38 SendMessage success, message is [dabwdbah ]
+2021/07/05 14:41:38 message:### &{ ffdaw:dabwdbah  }
+2021/07/05 14:41:38 message:### &{ ffdaw:dabwdbah  }
+2021/07/05 14:42:10 SendMessage success, message is [dvuawvduwava]
+2021/07/05 14:42:10 message:### &{ ffdaw:dvuawvduwava }
+2021/07/05 14:42:10 message:### &{ ffdaw:dvuawvduwava }
+2021/07/05 14:42:24 SendMessage success, message is [wbaiwbdawdwd]
+2021/07/05 14:42:24 message:### &{ dawda:wbaiwbdawdwd }
+2021/07/05 14:42:24 message:### &{ dawda:wbaiwbdawdwd }
+2021/07/05 14:54:54 SendMessage success, message is [dawdada]
+2021/07/05 14:54:54 message:### &{ adwadwa:dawdada }
+2021/07/05 14:57:09 SendMessage success, message is [dawdad]
+2021/07/05 14:57:09 message:### &{ wadada:dawdad }
+2021/07/05 14:59:50 SendMessage success, message is [dwadada]
+2021/07/05 14:59:50 message:### &{ dnanwdna:dwadada }
+2021/07/05 14:59:50 message:### &{ dnanwdna:dwadada }
+2021/07/05 15:00:07 SendMessage success, message is [dawdawd]
+2021/07/05 15:00:07 message:### &{ dnanwdna:dawdawd }
+2021/07/05 15:00:14 SendMessage success, message is [wadawdawd]
+2021/07/05 15:00:14 message:### &{ dnanwdna:wadawdawd }
+2021/07/05 15:01:01 SendMessage success, message is [awdadd]
+2021/07/05 15:01:01 message:### &{ wdada:awdadd }
+2021/07/05 15:01:01 message:### &{ wdada:awdadd }
+2021/07/05 15:01:05 SendMessage success, message is [wadad]
+2021/07/05 15:01:05 message:### &{ wdada:wadad }
+2021/07/05 15:01:05 message:### &{ wdada:wadad }
+2021/07/05 15:02:20 ReadMessage error: read tcp [::1]:55332->[::1]:8080: use of closed network connection
+2021/07/05 15:11:27 SendMessage success, message is [dwadadaw]
+2021/07/05 15:11:27 message:### &{ adwwadad:dwadadaw }
+2021/07/05 15:11:33 SendMessage success, message is [dawda]
+2021/07/05 15:11:33 message:### &{ adwwadad:dawda }

@@ -1,0 +1,12 @@
+syntax = "proto3";
+package com;
+
+option go_package="../Protobuf;Protobuf";
+
+message Communication{
+  string Type = 1;
+  string Msg = 2 ;
+  string  Username=3;
+  repeated string Userlist=4;
+  string  IP =5;
+}
