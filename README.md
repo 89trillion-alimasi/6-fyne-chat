@@ -23,7 +23,8 @@
 ```
 .
 ├── README.md
-├── controller	#处理业务
+├── clientGUI.png #流程图
+├── controller
 │   └── handle.go
 ├── go.mod
 ├── go.sum
@@ -34,12 +35,11 @@
 │   ├── connect.pb.go
 │   ├── connect.proto
 │   └── message.go
-├── picture #存放流程图和截图
-│   ├── GUi.png
+├── picture
 │   ├── one.png
 │   ├── three.png
 │   └── two.png
-└── view		#客户外观
+└── view
     └── view.go
 
 
@@ -157,5 +157,5 @@ make vet
 
 
 
-![GUi](/Users/alimasi/go/src/6-fyne-chat/picture/GUi.png)
+![clientGUI](clientGUI.png)
 
