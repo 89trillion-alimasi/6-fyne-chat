@@ -39,9 +39,10 @@
 │   ├── one.png
 │   ├── three.png
 │   └── two.png
+├── server
+│   └── updatemessage.go
 └── view
     └── view.go
-
 
 ```
 
@@ -51,13 +52,14 @@
 
 ​	
 
-| 层           | 文件夹      | 主要职责     | 调用关系     | 其他说明 |
-| ------------ | ----------- | ------------ | ------------ | -------- |
-| 应用层       | /main.go    | 程序启动     | 调用view层   |          |
-| controller层 | /controller | 管理客户读写 | view层       |          |
-| log层        | /log        | 输出日志     |              |          |
-| picture      | /picture    | 存放图片     |              |          |
-| model层      | /model      | 消息传送格式 | controller层 |          |
+| 层           | 文件夹      | 主要职责           | 调用关系                       | 其他说明 |
+| ------------ | ----------- | ------------------ | ------------------------------ | -------- |
+| 应用层       | /main.go    | 程序启动           | 调用view层                     |          |
+| controller层 | /controller | 管理客户读写       | view层                         |          |
+| log层        | /log        | 输出日志           |                                |          |
+| picture      | /picture    | 存放图片           |                                |          |
+| model层      | /model      | 消息传送格式       | controller层                   |          |
+| server层     | /server     | 更新客户端聊天内容 | 调用controller层，被view层调用 |          |
 
 
 

@@ -2,14 +2,11 @@ package controller
 
 import (
 	Protobuf "6-fyne-chat/model"
-	"6-fyne-chat/view"
+	"fmt"
 	"github.com/gorilla/websocket"
 	"google.golang.org/protobuf/proto"
 	"log"
 	"net/http"
-	"sort"
-	"strings"
-	"time"
 )
 
 var (
@@ -59,6 +56,7 @@ func Sendmessage(message string) {
 func receivermessageclient() {
 	for {
 		_, message, err := Conn.ReadMessage()
+		fmt.Printf("receive msg:", message)
 		if err != nil {
 			log.Println("receivermessageMessage error:", err)
 			return
@@ -106,35 +104,6 @@ func serverclient() {
 				Userlist <- msg
 			default:
 			}
-		}
-	}
-}
-
-func Updatechatroom() {
-	for {
-		select {
-		case m := <-ClientMessage:
-			//fmt.Println("rec msg:", m)
-			var str strings.Builder
-			t := time.Now().Format("2006-01-02 15:04:05")
-			str.WriteString(string(t))
-			str.WriteString("  ")
-			str.WriteString("\n")
-			str.WriteString(m.Msg)
-			str.WriteString("\n")
-			view.Message.Text += str.String()
-			view.Message.Refresh()
-			log.Println("message:###", m)
-		case m := <-Userlist:
-			h := strings.Split(m.Msg, ",")
-			sort.Strings(h)
-			var s string
-			for _, v := range h {
-				s = s + v + ","
-			}
-			view.UserList.Text = s[1:]
-			view.UserList.Refresh()
-		default:
 		}
 	}
 }
