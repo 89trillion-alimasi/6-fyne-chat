@@ -2,6 +2,7 @@ package view
 
 import (
 	"6-fyne-chat/controller"
+	server2 "6-fyne-chat/server"
 	"errors"
 	"fyne.io/fyne"
 	"fyne.io/fyne/canvas"
@@ -25,8 +26,11 @@ func Chat(w fyne.Window) *fyne.Container {
 	line.Resize(fyne.NewSize(100, 1))
 	h3 := fyne.NewContainerWithLayout(layout.NewVBoxLayout(), layout.NewSpacer(), line, layout.NewSpacer())
 	//list:=fyne.NewContainerWithLayout(layout.NewGridLayoutWithRows(1),alluser(w)
+	//fmt.Printf("%p,%p\n",&Message,&UserList)
+	UserList = widget.NewLabel("")
+	Message = widget.NewLabel("")
 
-	go controller.Updatechatroom()
+	go server2.Updatechatroom(Message, UserList)
 	chat := fyne.NewContainerWithLayout(layout.NewGridLayoutWithRows(4), top, h3, alluser(w), chatingroom(w))
 
 	return chat
@@ -116,8 +120,7 @@ func chatingroom(w fyne.Window) fyne.CanvasObject {
 }
 
 func alluser(w fyne.Window) fyne.CanvasObject {
-	UserList = widget.NewLabel("")
-	Message = widget.NewLabel("")
+
 	hbox := container.NewHBox(Message)
 	record := container.NewHScroll(hbox)
 
